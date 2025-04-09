@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'music',
     'reviews',
     'lists',
+    'spotify',
 ]
 
 MIDDLEWARE = [
